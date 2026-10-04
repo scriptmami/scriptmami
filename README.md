@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 </a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=scriptmami&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=scriptmami&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" />
 </div>
 
