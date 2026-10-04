@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20scriptmami%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=4.+S%C4%B1n%C4%B1f+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 </a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=scriptmami&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
@@ -10,13 +10,10 @@
 
 <br>
 
-**isim:** scriptmami
 **rol:** Bilgisayar Mühendisi
 **odak:** .NET Core · Spring Boot · Yapay Zeka / Makine Öğrenmesi
-**şu_an:** Yeni teknolojiler öğreniyor ve projeler geliştiriyor
 **ilgi_alanı:** Backend Geliştirme, AI/ML, Yazılım Mimarisi
 
-🎓 3,51 not ortalaması ile Bilgisayar Mühendisliğinden mezun oldum.
 💻 .NET Core ve Spring Boot ile backend geliştirme yapıyorum
 🤖 AI / ML alanına derin bir ilgi duyuyorum ve bu alanda kendimi geliştiriyorum
 🌱 Her gün yeni bir şeyler öğrenmeye devam ediyorum
