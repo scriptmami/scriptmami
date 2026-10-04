@@ -21,20 +21,11 @@
 
 <br>
 <div align="center">
-<a href="mailto:mailini-buraya-yaz@example.com">
+<a href="mailto:muhammed@mmsproduction.com.tr">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/scriptmami">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@scriptmami">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/scriptmami">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://leetcode.com/scriptmami/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://instagram.com/muhammedmehdiselam">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
 
